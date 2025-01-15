@@ -94,6 +94,7 @@ button {
   width: 298.012px;
   height: 396px;
   margin-top: 10px;
+  max-width: 100%;
 
 }
 
@@ -138,4 +139,5 @@ button {
   font-style: normal; 
   text-decoration-line: underline;
   text-align: center;
+  max-width: 100%;
 }
